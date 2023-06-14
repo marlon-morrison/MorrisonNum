@@ -6,7 +6,7 @@ class Numbers {
     
     public:
     Numbers(int new_number)
-        :number(new_number){ 
+        :number(new_number){  
             
     }
     std::string print() {
